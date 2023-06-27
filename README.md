@@ -1,2 +1,2 @@
 # trybe-exercicios
-adoro
+iniciando na programação
